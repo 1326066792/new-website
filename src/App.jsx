@@ -12,7 +12,7 @@ function App() {
         <div class="container">
         <h1>你好，我是 Chance</h1>
 
-        <p class="subtitle">一名正在学习计算机的学生</p>
+        <p class="subtitle">一aaaaaaa名正在学习计算机的学生</p>
 
         <p>
         这是我从零开始写的第一个个人网站，以后fdfsdfsdfsaf会不断升级。
